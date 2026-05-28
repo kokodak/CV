@@ -1,1 +1,1 @@
-[CV](./CV.pdf)
+[CV](./Seungyong_Lee_CV.pdf)
